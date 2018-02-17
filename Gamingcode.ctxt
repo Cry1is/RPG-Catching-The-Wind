@@ -1,0 +1,28 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ backstory()
+comment0.text=\r\n\ Prints\ out\ the\ beginning\ storyline\ for\ the\ game.\ It\ contains\ two\ groups\ of\ println\ \r\n\ statements,\ the\ first\ being\ the\ user's\ goals,\ the\ second\ being\ the\ actual\ beginning\ \r\n\ storyline.\ \r\n\ Example\:\ Gamingcode.backstory();\r\n\ prints\ all\ the\ statements\ within\ the\ backstory\ method.\ \r\n
+comment1.params=
+comment1.target=void\ account()
+comment1.text=\r\n\ returns\ a\ specific\ account\ if\ that\ account's\ name\ is\ called,\ and\ the\ password\ is\ \r\n\ entered.\ If\ a\ name\ is\ input\ that\ is\ not\ part\ of\ the\ 5\ available\ accounts,\ it\ creates\ \r\n\ a\ new\ game\ with\ the\ default\ stats.\ \r\n\ Example\:\ Gamingcode.account();\r\n\ Displays\ "What\ would\ you\ like\ your\ name\ to\ be?\:\ "\ to\ the\ user,\ asking\ for\ an\ input.\ \r\n\ if\ input\ is\ one\ of\ the\ 5\ accounts\ -\ "You\ accessed\ account\ <name>\!"\ "Your\ name\ is\ now\r\n\ <name>\!".\ \r\n\ if\ it\ is\ a\ new\ name\ -\ "You\ created\ a\ new\ user\!"\ "Your\ name\ is\ now\ <name>\!".\ \r\n
+comment2.params=
+comment2.target=void\ title()
+comment2.text=\r\n\ Prints\ out\ the\ title\ onto\ the\ screen,\ as\ well\ as\ calculating\ the\ user's\ current\ lvl.\ \r\n\ Example\:\ Gamingcode.title();\r\n\ Displays\ the\ println\ statements\ shown\ below.\ \r\n
+comment3.params=
+comment3.target=void\ stats()
+comment3.text=\r\n\ Prints\ out\ the\ user's\ stats\ onto\ the\ screen.\ \r\n\ Precondition\:\ Gamingcode.account();\ has\ already\ been\ run.\ \r\n\ Example\:\ Gamingcode.stats();\r\n\ displays\ the\ current\ user's\ stats.\ \r\n
+comment4.params=
+comment4.target=void\ tutorial()
+comment4.text=\r\n\ Prints\ out\ information\ for\ the\ user.\ \r\n\ Example\:\ Gamingcode.tutorial();\r\n\ Displays\ the\ text\ shown\ below.\ \r\n
+comment5.params=
+comment5.target=void\ actions()
+comment5.text=\r\n\ Allows\ the\ user\ to\ choose\ which\ action\ to\ take\ in-game.\ This\ section\ includes\ the\ \r\n\ actions\ listed\ below.\ \r\n\ Precondition\:\ user\ inputs\ one\ of\ the\ choices\ outlined\ in\ the\ println\ statement.\ \r\n\ Example\:\ Gamingcode.actions();\r\n\ User\ inputs\ "Read"\r\n\ Code\ runs\ the\ if\ "Read"\ statement.\ \r\n
+comment6.params=
+comment6.target=void\ refresh()
+comment6.text=\r\n\ Clears\ the\ screen\ and\ prints\ out\ the\ title\ at\ the\ top\ of\ the\ screen.\ \r\n\ Example\:\ \r\n\ Screen\ shows\ -\ \r\n\ "Hello\ World"\r\n\ "My\ name\ is\ Joe"\r\n\ (Gamingcode.refresh())\r\n\ Screen\ is\ cleared\ and\ title\ is\ printed\ out.\ \r\n
+comment7.params=
+comment7.target=void\ win()
+comment7.text=\r\n\ Prints\ out\ either\ a\ win\ or\ lose\ statement\ depending\ on\ which\ conditions\ are\ met.\ \r\n\ Precondition\:\ lives\ <\=\ 0\ or\ lvl\ >\=\ 10,\ lives\ >\ 0\r\n\ Example\:\ lives\ <\=\ 0\r\n\ Displays\ -\ "You\ ran\ out\ of\ lives\!\ game\ over\!\r\n
+comment8.params=
+comment8.target=void\ lose()
+numComments=9

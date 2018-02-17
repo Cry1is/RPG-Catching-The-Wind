@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=g\ count\ x\ y
+comment0.target=void\ storyline(java.awt.Graphics,\ int,\ int,\ int)
+comment0.text=\r\n\ Draws\ storyline\ <count>\ on\ the\ graphics\ screen\ beginning\ at\ coordinates\ x,\ y.\r\n\ Example\:\ Ggamingcode.storyline(g,\ 1,\ 20,\ 20);\r\n\ Draws\ the\ series\ of\ strings\ within\ the\ "if\ (count\ \=\=\ 1)"\ statement\ starting\ at\ coordinates\ 20,\ 20.\ \r\n
+comment1.params=g\ count\ x\ y
+comment1.target=void\ tips(java.awt.Graphics,\ int,\ int,\ int)
+comment2.params=g
+comment2.target=void\ title(java.awt.Graphics)
+comment2.text=\r\n\ Prints\ the\ game\ title.\ \r\n\ Example\:\ Ggamingcode.title(g);\r\n\ Prints\ title\ in\ top\ left\ of\ screen.\ \r\n
+comment3.params=g
+comment3.target=void\ stats(java.awt.Graphics)
+comment3.text=\r\n\ Prints\ the\ user's\ stats.\ \r\n\ Precondition\:\ user\ is\ selected\r\n\ Example\:\ Ggamingcode.stats();\r\n\ Will\ print\ the\ current\ user's\ stats.\ \r\n
+comment4.params=g
+comment4.target=void\ refresh(java.awt.Graphics)
+comment4.text=\r\n\ Clears\ the\ applet\ screen.\ \r\n\ Example\:\ \r\n\ Screen\ shows\ drawHome();\r\n\ Ggamingcode.refresh();\r\n\ Screen\ clears\ back\ to\ white.\ \r\n
+numComments=5

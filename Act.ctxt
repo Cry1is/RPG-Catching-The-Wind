@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ fight()
+comment1.params=
+comment1.target=void\ lookChance()
+comment2.params=
+comment2.target=int\ cost()
+comment3.params=
+comment3.target=void\ storyline()
+comment4.params=delay
+comment4.target=void\ wait(int)
+comment5.params=rand
+comment5.target=int\ rand(int)
+numComments=6

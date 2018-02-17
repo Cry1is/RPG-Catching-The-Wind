@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=delay
+comment0.target=void\ wait(int)
+comment0.text=\r\n\ Pauses\ the\ output\ for\ a\ specified\ number\ of\ milliseconds\ (1/1000ths\ of\ a\ second).\ \r\n\ Example\:\ Gact.wait(1000);\r\n\ Pauses\ for\ 1\ second.\ \r\n
+comment1.params=g\ x
+comment1.target=void\ setText(java.awt.Graphics,\ int)
+numComments=2
